@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montenegrin+Gothic+One&display=swap');
+
+*{
+    box-sizing: border-box;
+
+}
+
+
+    .header{
+                display: flexbox;
+                color: #F8F9FA;
+                height: 2230px;
+                margin-left: 15%;
+                margin-right: 15%;
+                margin-top: 5%;
+                margin-bottom: 5%;
+                background: rgb(95, 94, 94);
+                padding: 50px 50px;
+                font-size: 25px;
+                border: 5px solid gray;
+                background-color: #010000;
+                background-size: contain;
+                background-position: bottom;
+                border-radius: 10px;
+                max-width: 100%;
+    }
+    .borda{
+        border: 5px solid gray;
+        border-radius: 10px;
+        margin-top: 20px;
+        width: 250px;
+
+    }
+    #namepage{
+        text-align: center;
+        margin-top: -310px;
+        margin-left: -210px;
+    }
+    #textaps{
+        margin-left: 300px;
+        margin-top: -20px;
+        font-size: 20px;
+        margin-right:2%;
+    }
+    .font{
+        font-size: 30px;
+    }
+    .back{
+        margin: 91%;
+        font-size: 20px;
+        text-align: right;
+        border: 1px solid gray;
+        text-decoration: none;
+        color: #F8F9FA;
+        padding: 10px 25px;
+        border-radius: 5px;
+        transition: all 0.5s ease;
+    }
+    .back:hover{
+        background-color: gray;
+        
+    }
+   
